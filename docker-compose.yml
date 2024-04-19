@@ -1,0 +1,8 @@
+---
+
+version: "3"
+
+services:
+  dc:
+    image: alpine:3.19.1
+    
